@@ -5,7 +5,7 @@
 - `scheme.scm` and `scheme-tests.scm`: a relational interpreter for a Scheme-like language and some nifty examples of running scheme code relationally.
 - `state-machine.scm`: examples of relationally querying a state machine written as mutually recursive Scheme functions
 - `synthesis.scm`: relational interpreter for a small typed language and examples of program synthesis, inspired by http://dl.acm.org/citation.cfm?id=2738007
-- `while.scm` and `while-tests.smc`: relational interpreter for an imperative language and examples of symbolic execution and program synthesis
+- `while.scm` and `while-tests.scm`: relational interpreter for an imperative language and examples of symbolic execution and program synthesis
 
 ## The interpreted Scheme-like language
 
