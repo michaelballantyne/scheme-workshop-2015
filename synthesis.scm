@@ -6,7 +6,6 @@
 
 (define empty-env '())
 
-(include "mk/test-check.scm")
 
 (define (lookupo x env t type)
   (fresh (y b rest)
