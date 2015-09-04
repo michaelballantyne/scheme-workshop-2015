@@ -80,3 +80,9 @@ then load your test or interpreter:
 ```
 
 I have a homebrew tap for installing Vicare on Mac OS X here: https://github.com/michaelballantyne/homebrew-vicare
+
+## Things to Try
+
+- Running recursive functions from sources like the Little Schemer, backwards. map, filter, fold, assoc, reverse, balanced?, even and odd list length, etc. Do they run backwards well? (https://github.com/pkrumins/the-little-schemer)
+- Synthesizing functions like the above from examples!
+- Capture avoiding substitution - hard to do as a relation, but should be possible as an interpreted function.
